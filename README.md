@@ -1,18 +1,18 @@
 # ANN_Pratice_stock prediction-0050-Market-
 
-====> Result: <===
-====> 0050:
-3/27  117.91979
-3/28  118.00402
-3/29  118.04225
-3/30  116.66922
-3/31  118.41536 
-====> TWII:
-3/27  15270.03653417
-3/28  15142.69860918
-3/29  15039.12674960
-3/30  14951.35671155
-3/31  14872.82544098
+====> Result: <===  
+====> 0050:  
+3/27  117.91979  
+3/28  118.00402  
+3/29  118.04225  
+3/30  116.66922  
+3/31  118.41536  
+====> TWII:  
+3/27  15270.03653417  
+3/28  15142.69860918  
+3/29  15039.12674960  
+3/30  14951.35671155  
+3/31  14872.82544098  
 
 ## Prediction_of_0050
 
@@ -74,10 +74,10 @@ algorithm to make accurate predictions of the future stock prices.
 
 ## References: 
 
-Brownlee, J. (2017). Time series prediction with LSTM recurrent neural networks in Python with Keras. Machine Learning Mastery. 
-https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neuralnetworks-python-keras/.
+Brownlee, J. (2017). Time series prediction with LSTM recurrent neural networks in Python with Keras. Machine Learning Mastery.  
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/.
 
-TensorFlow. (n.d.). tf.keras.layers.LSTM. TensorFlow.
+TensorFlow. (n.d.). tf.keras.layers.LSTM. TensorFlow.  
 https://www.tensor
 
 -------------------------------------------
@@ -135,8 +135,8 @@ the potential of LSTM models for stock price prediction tasks.
 
 ## References: 
 
-"LSTM Neural Network for Time Series Prediction". Machine Learning Mastery. 
+"LSTM Neural Network for Time Series Prediction". Machine Learning Mastery.  
 https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 
-"Long Short-Term Memory". Wikipedia. 
+"Long Short-Term Memory". Wikipedia.  
 https://en.wikipedia.org/wiki/Long_short-term_memor
